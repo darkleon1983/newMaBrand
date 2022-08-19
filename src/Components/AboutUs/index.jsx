@@ -2,7 +2,7 @@ import React from "react";
 
 export const AboutUs = () => {
   return (
-    <div>
+    <div className="grid w-11/12 m-0 self-center">
       <div>
         <h2>О нас</h2>
       </div>

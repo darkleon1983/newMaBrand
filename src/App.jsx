@@ -6,6 +6,7 @@ import { Footer } from "./Components/Footer";
 import { Header } from "./Components/Header";
 import { Promo } from "./Components/Promo/index";
 import { Services } from "./Components/Services/index";
+import "./index.css";
 
 export const App = () => {
   return (
